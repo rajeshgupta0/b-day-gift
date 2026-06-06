@@ -1,4 +1,0 @@
-const tsrStartManifest = () => ({ routes: { __root__: { filePath: "C:/ByteRanger/Codes/Project/memory-galaxy-gift-main/src/routes/__root.tsx", children: ["/", "/gallery/$id"], preloads: ["/assets/index-DESQGPdC.js"], scripts: [{ attrs: { type: "module", async: true, src: "/assets/index-DESQGPdC.js" } }] }, "/": { filePath: "C:/ByteRanger/Codes/Project/memory-galaxy-gift-main/src/routes/index.tsx", children: void 0, preloads: ["/assets/index-Cye1LpZR.js", "/assets/sparkles-DmiqK2fW.js", "/assets/createLucideIcon-DlBtE634.js"] }, "/gallery/$id": { filePath: "C:/ByteRanger/Codes/Project/memory-galaxy-gift-main/src/routes/gallery.$id.tsx", children: void 0, preloads: ["/assets/gallery._id-CHLzt6Cs.js", "/assets/sparkles-DmiqK2fW.js", "/assets/arrow-left-CTqsmnjo.js", "/assets/createLucideIcon-DlBtE634.js", "/assets/gallery._id-Bph2DZuC.js", "/assets/gallery._id-C44oUbHZ.js"] } } });
-export {
-  tsrStartManifest
-};

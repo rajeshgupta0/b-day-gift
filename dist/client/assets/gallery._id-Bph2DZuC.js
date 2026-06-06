@@ -1,1 +1,0 @@
-import{j as e}from"./index-DESQGPdC.js";const t=({reset:n})=>e.jsx("main",{className:"grid min-h-screen place-items-center bg-background text-center",children:e.jsxs("div",{children:[e.jsx("p",{children:"Something went sideways."}),e.jsx("button",{onClick:n,className:"mt-3 text-neon-cyan underline",children:"Try again"})]})});export{t as errorComponent};
